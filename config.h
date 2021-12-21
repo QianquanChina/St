@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Monaco:pixelsize=16:antialias=true:autohint=true";
+static char *font = "CodeNewRoman Nerd Font Mono:pixelsize=19:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
