@@ -1,11 +1,11 @@
 /* See LICENSE file for copyright and license details. */
 
 /*
- * appearance
+ *  appearance
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "CodeNewRoman Nerd Font Mono:pixelsize=19:antialias=true:autohint=true";
+static char *font = "CodeNewRoman Nerd Font Mono:pixelsize=18.5:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
