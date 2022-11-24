@@ -9,7 +9,7 @@ static char *font = "Monaco:style=Regular:pixelsize=20:antialias=true:autohint=t
 
 static char *font2[] = {
 
-                "CodeNewRoman Nerd Font Mono:style=Regular:pixelsize=22:antialias=true:autohint=true"
+                "CodeNewRoman Nerd Font Mono:style=Regular:pixelsize=21.8:antialias=true:autohint=true"
 
 };
 
